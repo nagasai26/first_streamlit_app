@@ -4,4 +4,6 @@ streamlit.title('My Parents New Healthy Dinner')
 
 streamlit.title('Breakfast Menu')
 
-('Omega 3 & blueberry Oatmeal')
+('Omega 3 & Blueberry Oatmeal')
+('Kale,Spinach & Rocket Smoothie')
+('Hard-Boiled Free-Range Egg')
